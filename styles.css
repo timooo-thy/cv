@@ -59,8 +59,9 @@ table{
 }
 
 .dp{
-    width: 15%;
+    width: 17.5%;
     height: auto;
+    margin: 80px auto 30px auto;
 }
 
 .top {
@@ -119,10 +120,6 @@ table{
 .skill{
     margin-left: 50%;
     padding-top: 1px;
-}
-
-.dp{
-    margin: 100px auto 50px auto;
 }
 
 .footer-link{
