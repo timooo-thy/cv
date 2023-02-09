@@ -1,2 +1,2 @@
-# cv
-Timothy's CV
+# resume
+Timothy's Resume
